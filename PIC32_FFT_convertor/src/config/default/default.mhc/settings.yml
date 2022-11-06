@@ -1,0 +1,14 @@
+configName: default
+folderName: testproject
+format_version: v1.0
+frameworkPath: ..\..\Users\PC\Harmony3
+processor: PIC32MK1024GPD064
+projectName: testptoject
+settings:
+  PackageFilter: audio;bsp;core;core_apps_pic32mk;csp;csp_apps_pic32mk;dev_packs;quick_docs;usb
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\PIC32MK-GP_DFP\1.6.144\atdf\PIC32MK1024GPD064.atdf

@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:55639BD4
+NODE:I LEVEL:0 LINE:23 "C:\cvavreval\inc\mega8.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavreval\inc\i2c.h"
+NODE:V LEVEL:0 LINE:28 "val -> R4,R5"
+NODE:V LEVEL:0 LINE:28 "val1 -> R6,R7"
+NODE:V LEVEL:0 LINE:30 "disp -> RAM:????"
+NODE:V LEVEL:0 LINE:31 "digit -> RAM:????"
+NODE:V LEVEL:0 LINE:32 "idea -> R9"
+NODE:F LEVEL:0 LINE:34 "timer0_ovf_isr(void)"
+NODE:V LEVEL:0 LINE:37 "i_S0000000000 -> RAM:????"
+NODE:F LEVEL:0 LINE:64 "disp_7seg(unsigned int _dat)"
+NODE:F LEVEL:0 LINE:73 "main(void)"

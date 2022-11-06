@@ -1,0 +1,22 @@
+format_version: v1.0
+type: UniqueComponent
+attributes: {id: a_i2s3}
+children:
+- type: Symbols
+  children:
+  - type: Integer
+    attributes: {id: I2S_BRG_VALUE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: a_i2s3, value: '1'}
+  - type: KeyValueSet
+    attributes: {id: I2S_SPICON_MODE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: '0'}
+- type: ElementPosition
+  attributes: {x: '285', y: '261', id: a_i2s3}
